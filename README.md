@@ -8,7 +8,7 @@
 ## 🛠 Tech Stack
 
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frameworks & Tools:** React, Next.js (basic), Tailwind CSS, Vite
+- **Frameworks & Tools:** React, Next.js (basic), Tailwind CSS
 - **Version Control:** Git & GitHub
 - **Design tools:** Figma (for UI reviews)
 
