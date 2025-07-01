@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Azam Abbasian (a.k.a. Hasti)
+# 👋 Hi, I'm Azam Abbasian 
 
 🎯 Front-End Developer | JavaScript • React • Next.js  
 🌍 Building clean, responsive UIs for global projects
@@ -39,6 +39,8 @@ Basic CRUD with React Hooks + LocalStorage
 
 - GitHub: [abbasian-codes](https://github.com/abbasian-codes)
 - Email: [abbasian.fz@gmail.com *(replace this)*
+
+
 سلام! من اعظم عباسیان هستم، یک توسعه‌دهنده فرانت‌اند با تمرکز بر React و Next.js.
 
 🎯 به‌صورت خودآموز وارد دنیای توسعه وب شدم و با ساخت پروژه‌های واقعی مهارت‌هام رو تقویت می‌کنم.
